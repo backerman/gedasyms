@@ -106,7 +106,7 @@ SA56
 T 810 1360 5 10 0 0 0 0 1
 device=SA56
 T 810 1560 5 10 0 0 0 0 1
-footprint=Kingbright_SA56
+footprint=LED_Kingbright_Sx56
 T 810 1760 5 10 0 0 0 0 1
 author=Brad Ackerman <brad@facefault.org>
 T 810 1960 5 10 0 0 0 0 1
