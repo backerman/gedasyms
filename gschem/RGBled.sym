@@ -72,3 +72,9 @@ T 50 1395 8 10 0 1 0 0 1
 device=BL-L105RGBW-CA
 T 800 1000 8 10 0 1 0 0 1
 footprint=LED_10mmRGB
+T 810 1760 5 10 0 0 0 0 1
+author=Brad Ackerman <brad@facefault.org>
+T 810 1960 5 10 0 0 0 0 1
+documentation=http://s3.amazonaws.com/evilmadscience/im/LED/BL-L105.pdf
+T 810 2160 5 10 0 0 0 0 1
+description=RGB LED (CA)
